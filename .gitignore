@@ -30,3 +30,6 @@ out
 gen
 build
 rebel.xml
+
+#build
+/dist
